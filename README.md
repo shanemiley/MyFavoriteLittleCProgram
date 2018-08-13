@@ -1,3 +1,2 @@
 # MyFavoriteLittleCProgram
-# MyFavoriteLittleCProgram
-# MyFavoriteLittleCProgram
+
